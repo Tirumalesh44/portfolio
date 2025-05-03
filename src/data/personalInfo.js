@@ -57,14 +57,14 @@ const personalInfo = {
       title: "Machine Learning Internship",
       issuer: "Acamedor",
       date: "December 2023",// Updated path to assets folder
-      verificationLink: "../public/assets/machine learning Internship.pdf",
+      verificationLink: "../assets/machine learning Internship.pdf",
     },
     {
       title: "Front End Certification",
       issuer: "Udemy",
       date: "March 2025",
 // Updated path to assets folder
-      verificationLink: "../public/assets/front-end-web certification infosys.pdf",
+      verificationLink: "../assets/front-end-web certification infosys.pdf",
     },
   ],
 
