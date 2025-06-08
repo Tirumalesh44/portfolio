@@ -8,7 +8,7 @@ const projects = [
           "A full-featured platform for alumni-student interaction. Includes JWT auth, real-time chat, mentorship management, and editable profiles.",
         tech: ["React", "Node.js", "Express", "MongoDB", "Socket.io"],
         github: "https://github.com/Tirumalesh44/Alumni-Student-Connect",
-        demo: "#",
+        demo: "",
         image: "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       },
       {
