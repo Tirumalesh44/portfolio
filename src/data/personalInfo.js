@@ -21,7 +21,7 @@ Beyond coding, I actively participate in team activities — I proudly led our c
       "Tailwind CSS",
       "Bootstrap",
       "Responsive Design",
-      "WebSockets",
+      
     ],
     backend: [
       "Node.js",
@@ -37,30 +37,36 @@ Beyond coding, I actively participate in team activities — I proudly led our c
     devops: [
       "Git",
       "GitHub",
-      "AWS",
       "Vercel",
     ],
     tools: [
       "VS Code",
       "Postman",
-      "Chrome DevTools",
-      "npm/yarn",
+      
+      
     ]
   },
 
   certifications: [
-    {
-      title: "Machine Learning Internship",
-      issuer: "Acamedor",
-      date: "December 2023",// Updated path to assets folder
-      verificationLink: "../assets/machine learning Internship.pdf",
-    },
     {
       title: "HTML certification",
       issuer: "Infosys",
       date: "March 2025",// Updated path to assets folder
       verificationLink: "../assets/Html5 cerification.pdf",
     },
+    {
+      title: "Python Essentials",
+      issuer: "Cisco",
+      date: "May 2025",// Updated path to assets folder
+      verificationLink: "../assets/PythonEssentials1.pdf",
+    },
+    {
+      title: "Machine Learning Internship",
+      issuer: "Acamedor",
+      date: "December 2023",// Updated path to assets folder
+      verificationLink: "../assets/machine learning Internship.pdf",
+    },
+    
     {
       title: "Front End Certification",
       issuer: "Infosys",
@@ -75,7 +81,7 @@ Beyond coding, I actively participate in team activities — I proudly led our c
       profile: "https://leetcode.com/u/TIRUMAESH_NAIDU_VANJARAPU/",
       stats: {
         ranking: "--",
-        problemsSolved: 109,
+        problemsSolved: 136,
         contestRating: "1549",
       },
     },
@@ -84,7 +90,7 @@ Beyond coding, I actively participate in team activities — I proudly led our c
       stats: {
         rating: "1463",
         stars: 2,
-        problemsSolved: 82,
+        problemsSolved: 86,
       },
     },
   },
@@ -92,10 +98,9 @@ Beyond coding, I actively participate in team activities — I proudly led our c
   social: {
     github: "https://github.com/Tirumalesh44",
     linkedin: "https://linkedin.com/in/Tirumalesh44",
-    twitter: "https://twitter.com/yourusername",
   },
 
-  resume: "/assets/TirumaleshResume.pdf", // Updated path to assets folder
+  resume: "/assets/Resume-Tirumalesh.pdf", // Updated path to assets folder
 };
 
 export default personalInfo;
